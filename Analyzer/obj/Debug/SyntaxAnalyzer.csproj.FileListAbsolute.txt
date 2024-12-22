@@ -1,0 +1,30 @@
+C:\Users\Виталий\OneDrive\Рабочий стол\Софт\Учёба\4 курс, 1 семак\Теория автоматов\Курсовая работа\SyntaxAnalyzer\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.exe.config
+C:\Users\Виталий\OneDrive\Рабочий стол\Софт\Учёба\4 курс, 1 семак\Теория автоматов\Курсовая работа\SyntaxAnalyzer\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.exe
+C:\Users\Виталий\OneDrive\Рабочий стол\Софт\Учёба\4 курс, 1 семак\Теория автоматов\Курсовая работа\SyntaxAnalyzer\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.pdb
+C:\Users\Виталий\OneDrive\Рабочий стол\Софт\Учёба\4 курс, 1 семак\Теория автоматов\Курсовая работа\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csprojAssemblyReference.cache
+C:\Users\Виталий\OneDrive\Рабочий стол\Софт\Учёба\4 курс, 1 семак\Теория автоматов\Курсовая работа\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.Form1.resources
+C:\Users\Виталий\OneDrive\Рабочий стол\Софт\Учёба\4 курс, 1 семак\Теория автоматов\Курсовая работа\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.Properties.Resources.resources
+C:\Users\Виталий\OneDrive\Рабочий стол\Софт\Учёба\4 курс, 1 семак\Теория автоматов\Курсовая работа\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csproj.GenerateResource.cache
+C:\Users\Виталий\OneDrive\Рабочий стол\Софт\Учёба\4 курс, 1 семак\Теория автоматов\Курсовая работа\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\OneDrive\Рабочий стол\Софт\Учёба\4 курс, 1 семак\Теория автоматов\Курсовая работа\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.exe
+C:\Users\Виталий\OneDrive\Рабочий стол\Софт\Учёба\4 курс, 1 семак\Теория автоматов\Курсовая работа\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.pdb
+C:\Users\sherb\OneDrive\Рабочий стол\ТА и ФЯ\SyntaxAnalyzer\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.exe.config
+C:\Users\sherb\OneDrive\Рабочий стол\ТА и ФЯ\SyntaxAnalyzer\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.exe
+C:\Users\sherb\OneDrive\Рабочий стол\ТА и ФЯ\SyntaxAnalyzer\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.pdb
+C:\Users\sherb\OneDrive\Рабочий стол\ТА и ФЯ\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csprojAssemblyReference.cache
+C:\Users\sherb\OneDrive\Рабочий стол\ТА и ФЯ\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.Form1.resources
+C:\Users\sherb\OneDrive\Рабочий стол\ТА и ФЯ\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.Properties.Resources.resources
+C:\Users\sherb\OneDrive\Рабочий стол\ТА и ФЯ\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csproj.GenerateResource.cache
+C:\Users\sherb\OneDrive\Рабочий стол\ТА и ФЯ\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\sherb\OneDrive\Рабочий стол\ТА и ФЯ\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.exe
+C:\Users\sherb\OneDrive\Рабочий стол\ТА и ФЯ\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.pdb
+C:\Users\ThePr\OneDrive\Рабочий стол\Теория Автоматов\Колин 312412\SyntaxAnalyzer\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.exe.config
+C:\Users\ThePr\OneDrive\Рабочий стол\Теория Автоматов\Колин 312412\SyntaxAnalyzer\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.exe
+C:\Users\ThePr\OneDrive\Рабочий стол\Теория Автоматов\Колин 312412\SyntaxAnalyzer\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.pdb
+C:\Users\ThePr\OneDrive\Рабочий стол\Теория Автоматов\Колин 312412\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csproj.AssemblyReference.cache
+C:\Users\ThePr\OneDrive\Рабочий стол\Теория Автоматов\Колин 312412\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.Form1.resources
+C:\Users\ThePr\OneDrive\Рабочий стол\Теория Автоматов\Колин 312412\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.Properties.Resources.resources
+C:\Users\ThePr\OneDrive\Рабочий стол\Теория Автоматов\Колин 312412\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csproj.GenerateResource.cache
+C:\Users\ThePr\OneDrive\Рабочий стол\Теория Автоматов\Колин 312412\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\ThePr\OneDrive\Рабочий стол\Теория Автоматов\Колин 312412\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.exe
+C:\Users\ThePr\OneDrive\Рабочий стол\Теория Автоматов\Колин 312412\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.pdb

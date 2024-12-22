@@ -1,0 +1,13 @@
+program var 
+
+Int, i, Intx, Inty, Intz : %;
+Float, j : !;
+
+begin
+Int := 20d;
+i := 0AFh;
+Inty := 4;
+Intz := 13;
+
+
+end.

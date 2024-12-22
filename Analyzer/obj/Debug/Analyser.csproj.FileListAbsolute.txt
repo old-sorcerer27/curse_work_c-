@@ -1,0 +1,30 @@
+C:\Users\ThePr\OneDrive\Рабочий стол\Теория Автоматов\Колин 312412\SyntaxAnalyzer\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.exe.config
+C:\Users\ThePr\OneDrive\Рабочий стол\Теория Автоматов\Колин 312412\SyntaxAnalyzer\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.exe
+C:\Users\ThePr\OneDrive\Рабочий стол\Теория Автоматов\Колин 312412\SyntaxAnalyzer\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.pdb
+C:\Users\ThePr\OneDrive\Рабочий стол\Теория Автоматов\Колин 312412\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\Analyser.csproj.AssemblyReference.cache
+C:\Users\ThePr\OneDrive\Рабочий стол\Теория Автоматов\Колин 312412\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.Form1.resources
+C:\Users\ThePr\OneDrive\Рабочий стол\Теория Автоматов\Колин 312412\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.Properties.Resources.resources
+C:\Users\ThePr\OneDrive\Рабочий стол\Теория Автоматов\Колин 312412\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\Analyser.csproj.GenerateResource.cache
+C:\Users\ThePr\OneDrive\Рабочий стол\Теория Автоматов\Колин 312412\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\Analyser.csproj.CoreCompileInputs.cache
+C:\Users\ThePr\OneDrive\Рабочий стол\Теория Автоматов\Колин 312412\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.exe
+C:\Users\ThePr\OneDrive\Рабочий стол\Теория Автоматов\Колин 312412\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.pdb
+D:\MAT\edc\ТАиФЯ\курсач\Вадим С\Analyzer\Analyzer\bin\Debug\SyntaxAnalyzer.exe.config
+D:\MAT\edc\ТАиФЯ\курсач\Вадим С\Analyzer\Analyzer\bin\Debug\SyntaxAnalyzer.exe
+D:\MAT\edc\ТАиФЯ\курсач\Вадим С\Analyzer\Analyzer\bin\Debug\SyntaxAnalyzer.pdb
+D:\MAT\edc\ТАиФЯ\курсач\Вадим С\Analyzer\Analyzer\obj\Debug\Analyser.csproj.AssemblyReference.cache
+D:\MAT\edc\ТАиФЯ\курсач\Вадим С\Analyzer\Analyzer\obj\Debug\SyntaxAnalyzer.Form1.resources
+D:\MAT\edc\ТАиФЯ\курсач\Вадим С\Analyzer\Analyzer\obj\Debug\SyntaxAnalyzer.Properties.Resources.resources
+D:\MAT\edc\ТАиФЯ\курсач\Вадим С\Analyzer\Analyzer\obj\Debug\Analyser.csproj.GenerateResource.cache
+D:\MAT\edc\ТАиФЯ\курсач\Вадим С\Analyzer\Analyzer\obj\Debug\Analyser.csproj.CoreCompileInputs.cache
+D:\MAT\edc\ТАиФЯ\курсач\Вадим С\Analyzer\Analyzer\obj\Debug\SyntaxAnalyzer.exe
+D:\MAT\edc\ТАиФЯ\курсач\Вадим С\Analyzer\Analyzer\obj\Debug\SyntaxAnalyzer.pdb
+D:\MAT\edc\ТАиФЯ\курсач\Ваня\Analyzer\Analyzer\bin\Debug\SyntaxAnalyzer.exe.config
+D:\MAT\edc\ТАиФЯ\курсач\Ваня\Analyzer\Analyzer\bin\Debug\SyntaxAnalyzer.exe
+D:\MAT\edc\ТАиФЯ\курсач\Ваня\Analyzer\Analyzer\bin\Debug\SyntaxAnalyzer.pdb
+D:\MAT\edc\ТАиФЯ\курсач\Ваня\Analyzer\Analyzer\obj\Debug\Analyser.csproj.AssemblyReference.cache
+D:\MAT\edc\ТАиФЯ\курсач\Ваня\Analyzer\Analyzer\obj\Debug\SyntaxAnalyzer.Form1.resources
+D:\MAT\edc\ТАиФЯ\курсач\Ваня\Analyzer\Analyzer\obj\Debug\SyntaxAnalyzer.Properties.Resources.resources
+D:\MAT\edc\ТАиФЯ\курсач\Ваня\Analyzer\Analyzer\obj\Debug\Analyser.csproj.GenerateResource.cache
+D:\MAT\edc\ТАиФЯ\курсач\Ваня\Analyzer\Analyzer\obj\Debug\Analyser.csproj.CoreCompileInputs.cache
+D:\MAT\edc\ТАиФЯ\курсач\Ваня\Analyzer\Analyzer\obj\Debug\SyntaxAnalyzer.exe
+D:\MAT\edc\ТАиФЯ\курсач\Ваня\Analyzer\Analyzer\obj\Debug\SyntaxAnalyzer.pdb
