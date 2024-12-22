@@ -27,7 +27,17 @@ namespace SyntaxAnalyzer
 			string[] programStructure = ReferenceStrings.Program.Split(' ');
 			string[] programStrArr = programStr.Split(' ');
 			int p = 0;
-			for (int i = 0; i < programStructure.Length; i++)
+
+            if (programStrArr[0] != "program")
+			{
+                _form.CatchError($"Отсутствует начало программы, ожидалось ключевое слово 'program'");
+            }
+            if (programStrArr[1] != "var")
+            {
+                _form.CatchError($"Отсутствует описание переменных, ожидалось ключевое слово 'var'");
+            }
+
+            for (int i = 0; i < programStructure.Length; i++)
 			{
 				if (programStructure[i] == programStrArr[p])
 				{
@@ -114,7 +124,7 @@ namespace SyntaxAnalyzer
 					}
                     else
                     {
-                        _form.CatchError($"Неизвестный токен {str[p]}");
+                        _form.CatchError($"Неизвестный токен в описание перменных, возможно пропущено ключевое слово 'begin' {str[p]} , {i}");
                         return -1;
                     }
                 }
@@ -128,7 +138,7 @@ namespace SyntaxAnalyzer
 					}
 					else
 					{
-						_form.CatchError($"Неизвестный токен {str[p]} , {i}");
+						_form.CatchError($"Неизвестный токен в описание перменных, возможно пропущено ключевое слово 'begin' {str[p]} , {i}");
 						return -1;
 					}
 				}
@@ -156,6 +166,7 @@ namespace SyntaxAnalyzer
 
 		public void Body(string[] str, int p)
 		{
+
             string[] bodyStructure = ReferenceStrings.Body.Split(' ');
 				p++;
 				int pn = p;

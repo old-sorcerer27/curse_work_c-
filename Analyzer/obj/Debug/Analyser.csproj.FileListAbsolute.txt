@@ -28,3 +28,13 @@ D:\MAT\edc\ТАиФЯ\курсач\Ваня\Analyzer\Analyzer\obj\Debug\Analyser
 D:\MAT\edc\ТАиФЯ\курсач\Ваня\Analyzer\Analyzer\obj\Debug\Analyser.csproj.CoreCompileInputs.cache
 D:\MAT\edc\ТАиФЯ\курсач\Ваня\Analyzer\Analyzer\obj\Debug\SyntaxAnalyzer.exe
 D:\MAT\edc\ТАиФЯ\курсач\Ваня\Analyzer\Analyzer\obj\Debug\SyntaxAnalyzer.pdb
+D:\MAT\edc\ТАиФЯ\курсач\Ваня\Analyzer\curse_work_c-\Analyzer\bin\Debug\SyntaxAnalyzer.exe.config
+D:\MAT\edc\ТАиФЯ\курсач\Ваня\Analyzer\curse_work_c-\Analyzer\bin\Debug\SyntaxAnalyzer.exe
+D:\MAT\edc\ТАиФЯ\курсач\Ваня\Analyzer\curse_work_c-\Analyzer\bin\Debug\SyntaxAnalyzer.pdb
+D:\MAT\edc\ТАиФЯ\курсач\Ваня\Analyzer\curse_work_c-\Analyzer\obj\Debug\Analyser.csproj.AssemblyReference.cache
+D:\MAT\edc\ТАиФЯ\курсач\Ваня\Analyzer\curse_work_c-\Analyzer\obj\Debug\SyntaxAnalyzer.Form1.resources
+D:\MAT\edc\ТАиФЯ\курсач\Ваня\Analyzer\curse_work_c-\Analyzer\obj\Debug\SyntaxAnalyzer.Properties.Resources.resources
+D:\MAT\edc\ТАиФЯ\курсач\Ваня\Analyzer\curse_work_c-\Analyzer\obj\Debug\Analyser.csproj.GenerateResource.cache
+D:\MAT\edc\ТАиФЯ\курсач\Ваня\Analyzer\curse_work_c-\Analyzer\obj\Debug\Analyser.csproj.CoreCompileInputs.cache
+D:\MAT\edc\ТАиФЯ\курсач\Ваня\Analyzer\curse_work_c-\Analyzer\obj\Debug\SyntaxAnalyzer.exe
+D:\MAT\edc\ТАиФЯ\курсач\Ваня\Analyzer\curse_work_c-\Analyzer\obj\Debug\SyntaxAnalyzer.pdb
