@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\MAT\\edc\\\u0422\u0410\u0438\u0424\u042F\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u0412\u0430\u043D\u044F\\Analyzer\\curse_work_c-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE5B85DE-F74C-4BEF-98D8-E39816A2A9C7}|Analyzer\\Analyser.csproj|d:\\mat\\edc\\\u0442\u0430\u0438\u0444\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u0432\u0430\u043D\u044F\\analyzer\\curse_work_c-\\analyzer\\datatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE5B85DE-F74C-4BEF-98D8-E39816A2A9C7}|Analyzer\\Analyser.csproj|solutionrelative:analyzer\\datatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE5B85DE-F74C-4BEF-98D8-E39816A2A9C7}|Analyzer\\Analyser.csproj|D:\\MAT\\edc\\\u0422\u0410\u0438\u0424\u042F\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u0412\u0430\u043D\u044F\\Analyzer\\curse_work_c-\\analyzer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CE5B85DE-F74C-4BEF-98D8-E39816A2A9C7}|Analyzer\\Analyser.csproj|solutionrelative:analyzer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CE5B85DE-F74C-4BEF-98D8-E39816A2A9C7}|Analyzer\\Analyser.csproj|d:\\mat\\edc\\\u0442\u0430\u0438\u0444\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u0432\u0430\u043D\u044F\\analyzer\\curse_work_c-\\analyzer\\semanticanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE5B85DE-F74C-4BEF-98D8-E39816A2A9C7}|Analyzer\\Analyser.csproj|solutionrelative:analyzer\\semanticanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE5B85DE-F74C-4BEF-98D8-E39816A2A9C7}|Analyzer\\Analyser.csproj|D:\\MAT\\edc\\\u0422\u0410\u0438\u0424\u042F\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u0412\u0430\u043D\u044F\\Analyzer\\curse_work_c-\\analyzer\\syntacticanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE5B85DE-F74C-4BEF-98D8-E39816A2A9C7}|Analyzer\\Analyser.csproj|solutionrelative:analyzer\\syntacticanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5B85DE-F74C-4BEF-98D8-E39816A2A9C7}|Analyzer\\Analyser.csproj|d:\\mat\\edc\\\u0442\u0430\u0438\u0444\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u0432\u0430\u043D\u044F\\analyzer\\curse_work_c-\\analyzer\\datatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE5B85DE-F74C-4BEF-98D8-E39816A2A9C7}|Analyzer\\Analyser.csproj|solutionrelative:analyzer\\datatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5B85DE-F74C-4BEF-98D8-E39816A2A9C7}|Analyzer\\Analyser.csproj|D:\\MAT\\edc\\\u0422\u0410\u0438\u0424\u042F\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u0412\u0430\u043D\u044F\\Analyzer\\curse_work_c-\\analyzer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE5B85DE-F74C-4BEF-98D8-E39816A2A9C7}|Analyzer\\Analyser.csproj|solutionrelative:analyzer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE5B85DE-F74C-4BEF-98D8-E39816A2A9C7}|Analyzer\\Analyser.csproj|D:\\MAT\\edc\\\u0422\u0410\u0438\u0424\u042F\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u0412\u0430\u043D\u044F\\Analyzer\\curse_work_c-\\analyzer\\lexicalanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,45 +30,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DataTable.cs",
               "DocumentMoniker": "D:\\MAT\\edc\\\u0422\u0410\u0438\u0424\u042F\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u0412\u0430\u043D\u044F\\Analyzer\\curse_work_c-\\Analyzer\\DataTable.cs",
               "RelativeDocumentMoniker": "Analyzer\\DataTable.cs",
               "ToolTip": "D:\\MAT\\edc\\\u0422\u0410\u0438\u0424\u042F\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u0412\u0430\u043D\u044F\\Analyzer\\curse_work_c-\\Analyzer\\DataTable.cs",
               "RelativeToolTip": "Analyzer\\DataTable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T07:27:57.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "SemanticAnalyzer.cs",
               "DocumentMoniker": "D:\\MAT\\edc\\\u0422\u0410\u0438\u0424\u042F\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u0412\u0430\u043D\u044F\\Analyzer\\curse_work_c-\\Analyzer\\SemanticAnalyzer.cs",
               "RelativeDocumentMoniker": "Analyzer\\SemanticAnalyzer.cs",
               "ToolTip": "D:\\MAT\\edc\\\u0422\u0410\u0438\u0424\u042F\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u0412\u0430\u043D\u044F\\Analyzer\\curse_work_c-\\Analyzer\\SemanticAnalyzer.cs",
               "RelativeToolTip": "Analyzer\\SemanticAnalyzer.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAqwDkAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T07:17:35.085Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "SyntacticAnalyzer.cs",
               "DocumentMoniker": "D:\\MAT\\edc\\\u0422\u0410\u0438\u0424\u042F\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u0412\u0430\u043D\u044F\\Analyzer\\curse_work_c-\\Analyzer\\SyntacticAnalyzer.cs",
               "RelativeDocumentMoniker": "Analyzer\\SyntacticAnalyzer.cs",
               "ToolTip": "D:\\MAT\\edc\\\u0422\u0410\u0438\u0424\u042F\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u0412\u0430\u043D\u044F\\Analyzer\\curse_work_c-\\Analyzer\\SyntacticAnalyzer.cs",
               "RelativeToolTip": "Analyzer\\SyntacticAnalyzer.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAQwJMAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwFMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T12:24:21.709Z"
+              "WhenOpened": "2024-12-22T12:24:21.709Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -84,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "D:\\MAT\\edc\\\u0422\u0410\u0438\u0424\u042F\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u0412\u0430\u043D\u044F\\Analyzer\\curse_work_c-\\Analyzer\\Form1.cs",
               "RelativeDocumentMoniker": "Analyzer\\Form1.cs",
