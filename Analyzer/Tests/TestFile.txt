@@ -9,5 +9,4 @@ i := 0AFh;
 Inty := 4;
 Intz := 13;
 
-
 end.
